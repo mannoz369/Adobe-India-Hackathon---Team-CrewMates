@@ -1,4 +1,4 @@
-# Adobe - Connecting the Dots Challenge (Round 1A)
+# Round 1A: Understand Your Document (Adobe Hackathon - Challenge 1A)
 
 ## How to Run
 
